@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **Python,Web Development and SEO**
+- 🌱 I’m currently learning **Python,Incident Response and Ethical Hacking**
 
 - 📫 How to reach me **ahmedtakiyudeen@gmail.com**
 
